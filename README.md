@@ -1,2 +1,1 @@
-# hydrobox
-hydrobox has moved to VForWaTer/hydrobox
+hydrobox has moved to https://github.com/VForWaTer/hydrobox
